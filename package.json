@@ -1,0 +1,25 @@
+{
+  "name": "okta-oidc-auth",
+  "version": "1.0.0",
+  "description": "Example login workflow using Okta as the OpenID Provider",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/turnerlabs/okta-oidc-auth"
+  },
+  "keywords": [
+    "node.js",
+    "okta",
+    "express",
+    "auth",
+    "oidc"
+  ],
+  "author": "Turner Cloud Engineering",
+  "licenses": [{
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0"
+  }]
+}
