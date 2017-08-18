@@ -25,6 +25,7 @@
     }
   ],
   "dependencies": {
+    "express": "^4.15.4",
     "passport": "^0.4.0",
     "passport-openidconnect": "0.0.2"
   }
